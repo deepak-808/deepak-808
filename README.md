@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @deepak-808
-- 👀 I’m a mern developer
-- 🌱 I’m currently working in nodejs and reactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 9872793808 deepak_808@yahoo.com
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">Full Stack MERN Developer from India</h3>
 
-<!---
-deepak-808/deepak-808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently working on **React.js, Next.js & Node.js Projects**
+- 🌱 Learning **System Design & Scalable Architecture**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB**
+- 👨‍💻 Portfolio: https://deepak-xi-six.vercel.app/
+- 📫 Email: **deepak.ds.0621@gmail.com**
+- 🤝 Open to freelance and collaboration opportunities
+
+### 🛠️ Tech Stack
+- Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, Express.js, Go (Gin)
+- Database: MongoDB, PostgreSQL
+- Tools: Git, Docker, Postman, Firebase
